@@ -21,5 +21,9 @@ Step 5 Making Python Read.\
 Step 6 Complete Code.
 
 for code please follow my github repository.
+https://github.com/suryawanshiyashaswini/pdfreader
+
+for more tech blogs follow my channel:
+https://iyashaswini.hashnode.dev/from-reading-to-listening-with-python#heading-hello-friends
 
 
