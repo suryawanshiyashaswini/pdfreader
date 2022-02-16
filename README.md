@@ -24,7 +24,8 @@ for code please follow my github repository.
 https://github.com/suryawanshiyashaswini/pdfreader
 
 for detailed description follow:
-https://iyashaswini.hashnode.dev/from-reading-to-listening-with-python#heading-hello-friends
+https://iyashaswini.hashnode.dev/from-reading-to-listening-with-python-text-to-speech
+
 
 for more tech blogs follow my channel:
 https://hashnode.com/@iYashaswini
